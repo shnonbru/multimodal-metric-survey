@@ -1,0 +1,11 @@
+multimodal-metric-survey
+multimodal-metric-survey/pyproject.toml
+multimodal-metric-survey/tests
+multimodal-metric-survey/project_structure.txt
+multimodal-metric-survey/README.md
+multimodal-metric-survey/.gitignore
+multimodal-metric-survey/scripts
+multimodal-metric-survey/data
+multimodal-metric-survey/src
+multimodal-metric-survey/src/multimodal_metrics
+multimodal-metric-survey/src/multimodal_metrics/__init__.py
