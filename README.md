@@ -1,6 +1,6 @@
 
 Main infos about the project  : 
-The current working directory is: /Users/shannon/desktop/workspace_msh
+The current working directory is: 
 The project name is: "multimodal-metric-survey"
 The package name is: "multimodal_metrics"
 You are logged in as: shannon
